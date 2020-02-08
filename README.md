@@ -1,6 +1,6 @@
 # Google Applied CS with Android Apps
 
-Games created on Android Studio by following Google's Applied CS with Android workshop. 
+Participated in a 2-week coding bootcamp hosted by Google engineers where I developed Android apps in Java that utilized different data structures & algorithms. Some of the games I developed are listed below.
 https://appliedcsskills.withgoogle.com
 
 ### List of Games 
